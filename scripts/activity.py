@@ -1,4 +1,5 @@
 """Refresh public profile activity; never substitutes sample numbers on failure."""
+from dashboard import render_dashboard
 import datetime as dt
 import json
 import os
@@ -55,7 +56,13 @@ def main():
             break
         page += 1
     peak = f"{busiest['date']} ({busiest['contributionCount']} contributions)" if busiest else 'No active day'
-    block = f'''![Contribution snake](assets/contribution-snake.svg)
+    render_dashboard(days, total, active, longest, busiest, c, stars)
+    block = f'''<img src="assets/activity-dashboard.svg" alt="Real GitHub activity dashboard" width="100%" />
+
+![Contribution snake](assets/contribution-snake.svg)
+
+<details><summary>Activity figures and refresh details</summary>
+
 
 | Contributions | Active days | Longest streak | Busiest day |
 | :--- | :--- | :--- | :--- |
@@ -67,6 +74,7 @@ def main():
 
 Calendar period: {days[0]['date']} to {days[-1]['date']}. GitHub-visible contribution data; stars are a current total, not a yearly count. Updated {dt.datetime.now(dt.timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}. Scheduled daily; last successful update remains visible if a refresh fails.
 '''
+    block += '\n</details>\n'
     path = Path('README.md')
     text = path.read_text()
     text, count = re.subn(r'(?s)(<!-- ACTIVITY:START -->).*?(<!-- ACTIVITY:END -->)', lambda m: m[1]+'\n'+block+'\n'+m[2], text)
@@ -78,3 +86,4 @@ Calendar period: {days[0]['date']} to {days[-1]['date']}. GitHub-visible contrib
 
 if __name__ == '__main__':
     main()
+
