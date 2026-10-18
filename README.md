@@ -77,7 +77,18 @@ An accessible, responsive portfolio with a custom animated hero, light/dark them
 ### A year of building.
 
 <!-- ACTIVITY:START -->
-Daily contribution visuals are being prepared. [View current GitHub activity →](https://github.com/dasusairaviteja?tab=overview)
+![Contribution snake](assets/contribution-snake.svg)
+
+| Contributions | Active days | Longest streak | Busiest day |
+| :--- | :--- | :--- | :--- |
+| 132 | 20 | 9 days | 2026-10-01 (24 contributions) |
+
+| Commit contributions | Pull-request contributions | Issue contributions | Stars on owned public non-fork repositories |
+| :--- | :--- | :--- | :--- |
+| 88 | 16 | 0 | 3 |
+
+Calendar period: 2025-10-19 to 2026-10-18. GitHub-visible contribution data; stars are a current total, not a yearly count. Updated 2026-10-18 15:37 UTC. Scheduled daily; last successful update remains visible if a refresh fails.
+
 <!-- ACTIVITY:END -->
 
 [Refresh workflow & run history](https://github.com/dasusairaviteja/dasusairaviteja/actions/workflows/contributions.yml)
