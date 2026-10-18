@@ -22,17 +22,24 @@
 <p><img src="assets/toolkit-panel.svg" alt="Python, C#, TypeScript, JavaScript, SQL. Agentic AI, RAG, NLP, evaluation and guardrails. React, FastAPI, .NET, PostgreSQL, Azure, Docker, AKS, ZenML, MLflow, Dynamics 365 and Power Platform." width="100%" /></p>
 <p><img src="assets/heading-activity.svg" alt="05 / Commit log — A year of building." width="100%" /></p>
 <!-- ACTIVITY:START -->
+<img src="assets/activity-dashboard.svg" alt="Real GitHub activity dashboard" width="100%" />
+
 ![Contribution snake](assets/contribution-snake.svg)
+
+<details><summary>Activity figures and refresh details</summary>
+
 
 | Contributions | Active days | Longest streak | Busiest day |
 | :--- | :--- | :--- | :--- |
-| 132 | 20 | 9 days | 2026-10-01 (24 contributions) |
+| 134 | 20 | 9 days | 2026-10-01 (24 contributions) |
 
 | Commit contributions | Pull-request contributions | Issue contributions | Stars on owned public non-fork repositories |
 | :--- | :--- | :--- | :--- |
-| 88 | 16 | 0 | 3 |
+| 90 | 16 | 0 | 3 |
 
-Calendar period: 2025-10-19 to 2026-10-18. GitHub-visible contribution data; stars are a current total, not a yearly count. Updated 2026-10-18 15:37 UTC. Scheduled daily; last successful update remains visible if a refresh fails.
+Calendar period: 2025-10-19 to 2026-10-18. GitHub-visible contribution data; stars are a current total, not a yearly count. Updated 2026-10-18 15:42 UTC. Scheduled daily; last successful update remains visible if a refresh fails.
+
+</details>
 
 <!-- ACTIVITY:END -->
 
