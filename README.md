@@ -1,66 +1,106 @@
-<p align="center">
-  <img src="assets/sai-hero.svg" alt="Sai Ravi Teja Dasu — AI and software engineering" width="100%" />
-</p>
+<p align="center"><img src="assets/sai-hero.svg" alt="Sai Ravi Teja Dasu — Lead Forward Deployed AI Engineer" width="100%" /></p>
 
-# Hi, I'm Sai Ravi Teja Dasu
+<h1 align="center">Sai Ravi Teja Dasu</h1>
+<p align="center"><strong>Lead Forward Deployed AI Engineer · Agentic AI · Enterprise Software</strong><br/>Engineering intelligence. Building systems that can explain themselves.</p>
+<p align="center"><a href="https://github.com/dasusairaviteja/SAI-Portfolio">Portfolio source</a> · <a href="https://www.linkedin.com/in/sai-teja-ai-engineer">LinkedIn</a> · <a href="mailto:sairaviteja629@gmail.com">Email</a></p>
 
-I build AI and software projects around document workflows, evidence-linked research, and machine learning pipelines. My current focus is agentic AI: making system behavior easier to inspect, evaluate, and improve.
+---
 
-[Explore my repositories](https://github.com/dasusairaviteja?tab=repositories) · [Contribution activity](https://github.com/dasusairaviteja?tab=overview)
+## 01 / About
+### Hello, I'm Sai.
 
-## Selected work
+I focus on turning complex business problems into reliable AI systems. My portfolio centers on forward-deployed AI engineering, agentic workflows, retrieval-augmented generation, and enterprise delivery.
 
-### 01 / Apollo Real Estate Sustainability Intelligence
+I care about the complete engineering process: understanding the problem, designing the system, implementing it, and evaluating its behavior. My priorities are evidence, explicit uncertainty, observability, and human review where decisions matter.
 
-A production-oriented foundation for document ingestion and sustainability workflows, with an upload/status interface and persistent conversation and user-memory endpoints.
+**Current direction:** production agentic AI, microservices architecture, evaluation, and secure document intelligence.
 
-**Stack:** Python · FastAPI · PostgreSQL · Azure · React · TypeScript · Docker
+## 02 / Engineering focus
+### Make the reasoning inspectable.
 
-**Status:** Foundation in development. AI chat and analytics remain placeholders; production security and operations gates are still open.
-
-[Explore Apollo →](https://github.com/dasusairaviteja/enterprise_apollo_CRE)
-
-### 02 / Clinical Trial Eligibility Investigator
-
-Research screening support that organizes trial criteria and synthetic patient evidence into criterion-level findings and a missing-information checklist for human review.
-
-**Focus:** Bounded tool use · Explicit uncertainty · Evidence-linked reports · Evaluation
-
-**Status:** Research prototype using synthetic data. It does not determine clinical eligibility; live-model and clinical validation remain incomplete.
-
-[Explore the investigator →](https://github.com/dasusairaviteja/clinical-trial-eligibility-investigator)
-
-### 03 / ML Pipeline for Price Prediction
-
-A machine learning workflow for training, deployment, and inference, with command-line control of a local prediction service.
-
-**Stack:** ZenML · MLflow
-
-[Explore the pipeline →](https://github.com/dasusairaviteja/ML_Pipeline_Prices_Predictor_System)
-
-## Technologies in my projects
-
-| Area | Technologies |
+| Focus | What matters to me |
 | :--- | :--- |
-| Backend & data | Python, FastAPI, PostgreSQL |
-| Frontend | React, TypeScript, Vite, Fluent UI |
-| Cloud & delivery | Azure Blob Storage, Azure Service Bus, Microsoft Entra ID, Docker, AKS, GitHub Actions |
-| ML workflows | ZenML, MLflow |
+| Agentic AI | Bounded tool use, clear responsibilities, and human review |
+| Retrieval & grounding | Traceable sources and evidence-linked answers |
+| Microservices | Clear service boundaries and independently deployable components |
+| Reliability | Evaluation, guardrails, observability, and operational readiness |
 
-## What I'm working toward
+## 03 / Selected work
+### From problem to implementation.
 
-- Agent workflows with explicit limits, traceable evidence, and human review.
-- Evaluation that distinguishes software checks from real-world performance.
-- Secure document systems with clear deployment and operational requirements.
+#### Apollo Real Estate Sustainability Intelligence
+A foundation for secure document ingestion and evidence-backed sustainability workflows. Includes a React document-upload interface and persistent conversation and user-memory endpoints.
 
-## GitHub activity
+**Python · FastAPI · PostgreSQL · Azure · React · TypeScript · Docker**
 
-[View my genuine contribution graph and recent activity on GitHub →](https://github.com/dasusairaviteja?tab=overview)
+Foundation in development; AI chat and analytics integration and production gates remain open. Microservices are a design direction, not a claim of a completed migration.
 
-## Connect
+[Repository →](https://github.com/dasusairaviteja/enterprise_apollo_CRE)
 
-Find my public work and repository discussions on [GitHub](https://github.com/dasusairaviteja).
+#### Clinical Trial Eligibility Investigator
+Research screening support that organizes synthetic patient evidence against trial criteria, records uncertainty, and produces findings for human review.
 
-<p align="center">
-  <img src="assets/sai-footer.svg" alt="Build with intent. Validate with evidence." width="100%" />
-</p>
+**Python · Tool-using agents · Evidence-linked reports · Evaluation**
+
+Research prototype using synthetic data; it does not decide clinical eligibility.
+
+[Repository →](https://github.com/dasusairaviteja/clinical-trial-eligibility-investigator)
+
+#### ML Pipeline for Price Prediction
+A workflow for model training, deployment, and inference with command-line control of a local prediction service.
+
+**ZenML · MLflow**
+
+[Repository →](https://github.com/dasusairaviteja/ML_Pipeline_Prices_Predictor_System)
+
+#### Personal Portfolio
+An accessible, responsive portfolio with a custom animated hero, light/dark themes, reduced-motion support, and sections for engineering work and credentials.
+
+**HTML · CSS · JavaScript**
+
+[Source & project details →](https://github.com/dasusairaviteja/SAI-Portfolio)
+
+## 04 / Toolkit
+### The tools I reach for.
+
+| Area | Technologies & practices |
+| :--- | :--- |
+| Languages | Python, C#, JavaScript, TypeScript, SQL |
+| AI engineering | Agentic workflows, RAG, NLP, evaluation, guardrails |
+| Frontend | React, Fluent UI, Vite, HTML, CSS |
+| Backend | FastAPI, .NET, REST APIs |
+| Data & cloud | PostgreSQL, SQL Server, Azure, Microsoft Entra ID |
+| Delivery & ML workflows | Docker, AKS, GitHub Actions, Azure DevOps, ZenML, MLflow |
+| Enterprise platforms | Dynamics 365, Dataverse, Power Apps, Power Automate |
+
+## 05 / Commit log
+### A year of building.
+
+<!-- ACTIVITY:START -->
+Daily contribution visuals are being prepared. [View current GitHub activity →](https://github.com/dasusairaviteja?tab=overview)
+<!-- ACTIVITY:END -->
+
+[Refresh workflow & run history](https://github.com/dasusairaviteja/dasusairaviteja/actions/workflows/contributions.yml)
+
+## 06 / Certifications
+### Keep learning. Keep building.
+
+Credentials listed in my portfolio, with links to the credential records.
+
+| Credential | Issuer | Record |
+| :--- | :--- | :--- |
+| OpenAI Consultative Solutions Practitioner | OpenAI | [Credential](https://oaipartnernetwork.credential.net/957d7ccb-51cc-4222-9739-61fe85ef7738) |
+| ChatGPT Solutions Practitioner | OpenAI | [Credential](https://oaipartnernetwork.credential.net/86a931e3-95f3-4279-8c1d-c5d4a24f4dde) |
+| ChatGPT Deployment Practitioner | OpenAI | [Credential](https://oaipartnernetwork.credential.net/b9326505-edb1-4773-93e6-3075eb447500) |
+| OpenAI Technical Practitioner | OpenAI | [Credential](https://oaipartnernetwork.credential.net/9ae21cd4-d081-430b-9aef-577046f28685) |
+| Machine Learning with Python | IBM | [Credential](https://www.coursera.org/account/accomplishments/verify/6C9U1B3ZAD9L) |
+| Google Project Management Professional Certificate | Google | [Credential](https://www.coursera.org/account/accomplishments/specialization/PP5C1WYEPUD9) |
+
+## 07 / Connect
+### Let's build something worth explaining.
+
+Interested in AI engineering, enterprise delivery, mentoring, or technical collaboration? Let's connect.
+
+[Email](mailto:sairaviteja629@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sai-teja-ai-engineer) · [Portfolio source](https://github.com/dasusairaviteja/SAI-Portfolio) · [GitHub](https://github.com/dasusairaviteja)
+
+<p align="center"><img src="assets/sai-footer.svg" alt="Build with intent. Validate with evidence." width="100%" /></p>
