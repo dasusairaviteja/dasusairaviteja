@@ -31,13 +31,13 @@
 
 | Contributions | Active days | Longest streak | Busiest day |
 | :--- | :--- | :--- | :--- |
-| 137 | 20 | 9 days | 2026-10-01 (24 contributions) |
+| 134 | 19 | 9 days | 2026-10-01 (24 contributions) |
 
 | Commit contributions | Pull-request contributions | Issue contributions | Stars on owned public non-fork repositories |
 | :--- | :--- | :--- | :--- |
 | 93 | 16 | 0 | 3 |
 
-Calendar period: 2025-11-16 to 2026-11-21. GitHub-visible contribution data; stars are a current total, not a yearly count. Updated 2026-11-21 16:15 UTC. Scheduled daily; last successful update remains visible if a refresh fails.
+Calendar period: 2025-11-23 to 2026-11-22. GitHub-visible contribution data; stars are a current total, not a yearly count. Updated 2026-11-22 16:28 UTC. Scheduled daily; last successful update remains visible if a refresh fails.
 
 </details>
 
