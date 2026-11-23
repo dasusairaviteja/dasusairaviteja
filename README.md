@@ -35,9 +35,9 @@
 
 | Commit contributions | Pull-request contributions | Issue contributions | Stars on owned public non-fork repositories |
 | :--- | :--- | :--- | :--- |
-| 93 | 16 | 0 | 3 |
+| 91 | 16 | 0 | 3 |
 
-Calendar period: 2025-11-23 to 2026-11-22. GitHub-visible contribution data; stars are a current total, not a yearly count. Updated 2026-11-22 16:28 UTC. Scheduled daily; last successful update remains visible if a refresh fails.
+Calendar period: 2025-11-23 to 2026-11-23. GitHub-visible contribution data; stars are a current total, not a yearly count. Updated 2026-11-23 20:23 UTC. Scheduled daily; last successful update remains visible if a refresh fails.
 
 </details>
 
