@@ -1,5 +1,5 @@
 <p><img src="assets/editorial-hero.svg" alt="Sai Ravi Teja Dasu — Lead Forward Deployed AI Engineer. Engineering intelligence. Building with intention." width="100%" /></p>
-<p align="center"><a href="https://github.com/dasusairaviteja/SAI-Portfolio"><b>PORTFOLIO SOURCE ↗</b></a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/sai-teja-ai-engineer"><b>LINKEDIN ↗</b></a> &nbsp; · &nbsp; <a href="mailto:sairaviteja629@gmail.com"><b>EMAIL ↗</b></a></p>
+<p align="center"><a href="https://dasusairaviteja.github.io/SAI-Portfolio/"><b>LIVE PORTFOLIO ↗</b></a> &nbsp; · &nbsp; <a href="https://github.com/dasusairaviteja/SAI-Portfolio"><b>PORTFOLIO SOURCE ↗</b></a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/sai-teja-ai-engineer"><b>LINKEDIN ↗</b></a> &nbsp; · &nbsp; <a href="https://github.com/dasusairaviteja"><b>GITHUB PROFILE ↗</b></a> &nbsp; · &nbsp; <a href="mailto:sairaviteja629@gmail.com"><b>EMAIL ↗</b></a></p>
 
 <p><img src="assets/heading-about.svg" alt="01 / About — Hello, I'm Sai." width="100%" /></p>
 <p><img src="assets/about-panel.svg" alt="Forward-deployed AI engineer focused on agentic AI, RAG and enterprise delivery. Evidence, evaluation and observability. Architecture interests: microservices and secure document systems." width="100%" /></p>
@@ -60,5 +60,5 @@ Calendar period: 2025-11-23 to 2026-11-26. GitHub-visible contribution data; sta
 
 <p><img src="assets/heading-connect.svg" alt="07 / Connect — Let's build something meaningful." width="100%" /></p>
 <p><img src="assets/connect-panel.svg" alt="Build with intent. Validate with evidence. Agentic AI, enterprise delivery and technical collaboration." width="100%" /></p>
-<p align="center"><a href="mailto:sairaviteja629@gmail.com">EMAIL</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/sai-teja-ai-engineer">LINKEDIN</a> &nbsp; · &nbsp; <a href="https://github.com/dasusairaviteja/SAI-Portfolio">PORTFOLIO SOURCE</a></p>
+<p align="center"><a href="mailto:sairaviteja629@gmail.com">EMAIL</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/sai-teja-ai-engineer">LINKEDIN</a> &nbsp; · &nbsp; <a href="https://dasusairaviteja.github.io/SAI-Portfolio/">LIVE PORTFOLIO</a> &nbsp; · &nbsp; <a href="https://github.com/dasusairaviteja/SAI-Portfolio">PORTFOLIO SOURCE</a></p>
 
